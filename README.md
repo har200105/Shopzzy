@@ -15,10 +15,10 @@ through stripe payment.This web app also contains Admin panel which allows the a
 
 # Screen shots of the Project 
 
-![alt text](./frontend/screenshots/a.png)
-![alt text](./frontend/screenshots/b.png)
-![alt text](./frontend/screenshots/c.png)
-![alt text](./frontend/screenshots/d.png)
-![alt text](./frontend/screenshots/e.png)
-![alt text](./frontend/screenshots/f.png)
+![alt text](./frontend/screenshots/a.PNG)
+![alt text](./frontend/screenshots/b.PNG)
+![alt text](./frontend/screenshots/c.PNG)
+![alt text](./frontend/screenshots/d.PNG)
+![alt text](./frontend/screenshots/e.PNG)
+![alt text](./frontend/screenshots/f.PNG)
 
